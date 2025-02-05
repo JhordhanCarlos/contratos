@@ -1,0 +1,9 @@
+.dashboard {
+    max-width: 80vw;
+    max-height: auto;
+    height: 100vh;
+    width: 100%;
+    background-color: #1f2029;
+    color: #fefefe;
+    padding: 2rem;
+}

@@ -1,0 +1,21 @@
+.sidebar {
+    color: #fefefe;
+    padding-top: 2rem;
+    padding-right: 2rem;
+    border: 0px solid #1f2029;
+    border-right-width: 2px;
+}
+
+.sidebarItems {
+    list-style-type: none;
+}
+
+.sidebarItemActive{
+    background-color: #1f2029 ;
+    color: #0779fe;
+    border-radius: 5px;
+    font-weight: bold;
+    width: max-content;
+    padding: 0.5rem;
+    text-transform: uppercase;
+}

@@ -1,0 +1,14 @@
+body {
+  all: reset !important;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  overflow-y: hidden !important;
+  overflow-x: hidden !important;
+  background-color: #181b23;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  margin: 0;
+}
