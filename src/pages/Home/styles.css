@@ -6,6 +6,7 @@
     background-color: #181b23;
     color: #fefefe;
     padding: 2rem;
+    overflow-y: scroll;
 }
 
 .cardSection{

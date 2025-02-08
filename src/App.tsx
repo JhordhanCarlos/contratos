@@ -5,13 +5,13 @@ import Dashboard from './pages/Dashboard'
 import { Sidebar } from './components/Sidebar'
 
 function App() {
-  const [menuSelected, setMenuSelected] = useState('Home')
+  const [itemMenuSelected, setItemMenuSelected] = useState("Home")
 
   return (
     <div className='container'>
       <Sidebar />
-      {menuSelected === 'Home' && <Home />}
-      {menuSelected === 'Dashboard' && <Dashboard />}
+      <Home />
+
     </div>
   )
 }

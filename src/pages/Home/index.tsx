@@ -13,9 +13,6 @@ export default function Home(){
             </section>
             <section className='cardSection'>
                 <CardContract />
-                <CardContract />
-                <CardContract />
-                <CardContract />
             </section>
             
         </main>
